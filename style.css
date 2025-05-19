@@ -1,0 +1,46 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f5f5f5;
+  margin: 0;
+  padding: 20px;
+}
+
+.hotel {
+  background-color: #fff;
+  border-left: 10px solid;
+  margin-bottom: 30px;
+  padding: 20px;
+  border-radius: 5px;
+}
+
+#foxoso {
+  border-color: #ff6f61;
+}
+
+#taj {
+  border-color: #6b5b95;
+}
+
+#lmb {
+  border-color: #88b04b;
+}
+
+.hotel h2 {
+  margin-top: 0;
+}
+
+.hotel img {
+  width: 100%;
+  height: auto;
+  border-radius: 5px;
+  margin-bottom: 15px;
+}
+
+.hotel ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.hotel li {
+  margin-bottom: 10px;
+}
